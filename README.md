@@ -1,10 +1,12 @@
-# Hi, I'm Naeem Prasla 👋
+# Hi, I'm Naeem Nasruddin 👋
 
 **Development Manager | Software Engineering & Technical Leadership | Scalable Web Applications, eCommerce & System Architecture**
 
-I'm a software engineering leader with 10+ years of experience, growing from hands-on web development into development management. I build and lead teams that deliver scalable, high-performance digital solutions for real business needs.
+With over 10 years of experience in software engineering, I've grown from a hands-on Web Developer to a Development Manager, building and leading teams that deliver scalable, high-performance digital solutions. My expertise spans full-stack development, software architecture, eCommerce platforms, system integrations, and technical leadership. I focus on transforming complex business challenges into reliable, efficient, and sustainable technology solutions.
 
-My work brings together full-stack engineering, software architecture, eCommerce platforms, system integrations, technical leadership and intelligent automation. I focus on solutions that are reliable, secure, efficient and built for long-term success.
+As AI reshapes the technology landscape, I combine my engineering experience with emerging AI capabilities to improve development workflows, automate complex processes, and build smarter digital solutions. I believe AI is most powerful when guided by strong technical foundations, critical thinking, and a clear understanding of business needs. For me, innovation isn't about following trends—it's about applying the right technologies to solve real problems and create meaningful value.
+
+My approach brings together engineering expertise, strategic thinking, technical leadership, and intelligent automation to deliver solutions that are scalable, secure, and built for long-term success. I'm passionate about exploring new technologies, empowering development teams, and helping businesses evolve in an increasingly AI-driven world. AI accelerates possibilities. Experience turns them into solutions.
 
 ## 🔭 What I'm working on
 
