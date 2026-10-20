@@ -23,13 +23,40 @@ My work brings together full-stack engineering, software architecture, eCommerce
 - System Integration and Technical Consulting
 - SEO, Web Design, UX and Digital Product Delivery
 
-## 💻 Tech I work with
+## 💼 Experience
 
-**Engineering:** HTML · CSS · JavaScript · PHP · Laravel · Node.js · MySQL
+**Development Manager — Fleekbiz Pakistan**  
+Mar 2025 – Present
 
-**Platforms:** WordPress · Shopify · Squarespace · Google Maps API
+Leading development teams and overseeing the planning, execution and delivery of scalable web applications and digital solutions.
 
-**AI & automation:** OpenAI · ChatGPT API · API integrations · workflow automation
+**Team Lead — Fleekbiz Pakistan**  
+Mar 2023 – Mar 2025
+
+Led web development teams in designing, developing and delivering scalable digital solutions while maintaining technical quality and project requirements.
+
+**Senior Web Developer — Fleekbiz Pakistan**  
+Dec 2019 – Mar 2023
+
+Designed, built, optimized and maintained scalable, high-performance web applications and eCommerce platforms.
+
+**Senior Web Developer — Bits & Digits**  
+Mar 2018 – Nov 2019
+
+Delivered scalable, high-performance web solutions, modern websites and eCommerce platforms with a focus on reliability and user experience.
+
+**Web Developer — Creomind Designs**  
+Feb 2016 – Nov 2018
+
+Built and maintained modern websites and eCommerce platforms, improving performance, reliability and digital user experiences.
+
+## 🧠 Skills
+
+**Management & leadership:** Development Management · Systems Development Management · Software Product Management · Deployment Management · Development Project Management · Development Coordination · Project Direction · Building Leadership Teams · Leadership Management · Management
+
+**Engineering & platforms:** Agentic AI Development · Application Programming Interfaces (API) · Web Application Development · Web Services · Application Development · Web Applications · Web Development
+
+**Tools:** HubSpot · GitHub · n8n
 
 ## 🚀 Selected work
 
@@ -39,17 +66,8 @@ My work brings together full-stack engineering, software architecture, eCommerce
 - **[Squareup Paylink Generator](https://github.com/naeemprasla/sqaureup-paylink-generator)** — Payment-link generation tool
 - **[Portfolio website](https://naeemprasla.github.io/)** — Personal work, experience and contact details
 
-## 💼 Career path
-
-**Development Manager / Software Engineering Leadership — Fleekbiz Pakistan**
-
-Building and leading teams that deliver scalable, high-performance digital solutions while helping businesses evolve through strong engineering foundations and intelligent automation.
-
 ## 📫 Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/naeempraslaofficial/)
 - [Portfolio](https://naeemprasla.github.io/)
 - [GitHub](https://github.com/naeemprasla)
-- [Email](mailto:naeemprasla786@gmail.com)
-
-> AI accelerates possibilities. Experience turns them into solutions.
