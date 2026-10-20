@@ -58,14 +58,6 @@ Built and maintained modern websites and eCommerce platforms, improving performa
 
 **Tools:** HubSpot · GitHub · n8n
 
-## 🚀 Selected work
-
-- **[GitThemeSync](https://github.com/naeemprasla/GitThemeSync)** — WordPress theme synchronization plugin
-- **[CryptoApi](https://github.com/naeemprasla/CryptoApi)** — JavaScript API project
-- **[componative-app](https://github.com/naeemprasla/componative-app)** — Lightweight SPA framework with components and routing
-- **[Squareup Paylink Generator](https://github.com/naeemprasla/sqaureup-paylink-generator)** — Payment-link generation tool
-- **[Portfolio website](https://naeemprasla.github.io/)** — Personal work, experience and contact details
-
 ## 📫 Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/naeempraslaofficial/)
