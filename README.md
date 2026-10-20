@@ -1,43 +1,55 @@
-# Hi, I'm Naeem 👋
+# Hi, I'm Naeem Prasla 👋
 
-I'm a Senior Web Developer and Head of Unit focused on building scalable, user-friendly web products. I work across frontend and backend systems, WordPress and PHP platforms, API integrations, and AI-assisted digital experiences. I also follow blockchain markets and technical analysis with a data-driven mindset.
+**Development Manager | Software Engineering & Technical Leadership | Scalable Web Applications, eCommerce & System Architecture**
+
+I'm a software engineering leader with 10+ years of experience, growing from hands-on web development into development management. I build and lead teams that deliver scalable, high-performance digital solutions for real business needs.
+
+My work brings together full-stack engineering, software architecture, eCommerce platforms, system integrations, technical leadership and intelligent automation. I focus on solutions that are reliable, secure, efficient and built for long-term success.
 
 ## 🔭 What I'm working on
 
-- Full-stack web applications with clean, responsive user experiences
-- WordPress, custom PHP and Laravel solutions for real-world businesses
-- JavaScript and Node.js integrations, APIs and automation workflows
-- AI-powered features using OpenAI and practical product thinking
-- Blockchain research, market analysis and decision-support tools
+- Leading engineering teams and improving development workflows
+- Scalable web applications and high-performance digital products
+- eCommerce platforms, system architecture and business integrations
+- AI-assisted development, automation and smarter product workflows
+- Turning complex business challenges into practical technology solutions
 
-## 🛠️ Tech I work with
+## 🛠️ Services & expertise
 
-**Languages & frameworks:** HTML · CSS · JavaScript · PHP · Laravel · Node.js
+- Software Engineering & Technical Leadership
+- Web and Application Development
+- SaaS Development and Business Analytics
+- eCommerce and Cloud Application Development
+- System Integration and Technical Consulting
+- SEO, Web Design, UX and Digital Product Delivery
 
-**Data & platforms:** MySQL · WordPress · Shopify · Squarespace · Google Maps API
+## 💻 Tech I work with
+
+**Engineering:** HTML · CSS · JavaScript · PHP · Laravel · Node.js · MySQL
+
+**Platforms:** WordPress · Shopify · Squarespace · Google Maps API
 
 **AI & automation:** OpenAI · ChatGPT API · API integrations · workflow automation
 
 ## 🚀 Selected work
 
 - **[GitThemeSync](https://github.com/naeemprasla/GitThemeSync)** — WordPress theme synchronization plugin
-- **[CryptoApi](https://github.com/naeemprasla/CryptoApi)** — JavaScript-based crypto API project
+- **[CryptoApi](https://github.com/naeemprasla/CryptoApi)** — JavaScript API project
 - **[componative-app](https://github.com/naeemprasla/componative-app)** — Lightweight SPA framework with components and routing
-- **[sqaureup-paylink-generator](https://github.com/naeemprasla/sqaureup-paylink-generator)** — Payment-link generation tool
+- **[Squareup Paylink Generator](https://github.com/naeemprasla/sqaureup-paylink-generator)** — Payment-link generation tool
 - **[Portfolio website](https://naeemprasla.github.io/)** — Personal work, experience and contact details
 
-## 💼 Experience
+## 💼 Career path
 
-- **Senior Web Developer / Head of Unit — Fleekbiz** · 2019–Present
-- **Expert Technical Analyst — Nordic Blockchain Solutions** · 2024
-- **Web Developer — Bits & Digits** · 2019–2020
-- **Web Developer — Creomind Designs** · 2016–2019
+**Development Manager / Software Engineering Leadership — Fleekbiz Pakistan**
+
+Building and leading teams that deliver scalable, high-performance digital solutions while helping businesses evolve through strong engineering foundations and intelligent automation.
 
 ## 📫 Get in touch
 
-- [LinkedIn](https://linkedin.com/in/naeemprasla)
+- [LinkedIn](https://www.linkedin.com/in/naeempraslaofficial/)
 - [Portfolio](https://naeemprasla.github.io/)
 - [GitHub](https://github.com/naeemprasla)
 - [Email](mailto:naeemprasla786@gmail.com)
 
-> Building useful things, learning continuously, and turning complex problems into clear solutions.
+> AI accelerates possibilities. Experience turns them into solutions.
