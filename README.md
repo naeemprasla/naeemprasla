@@ -1,6 +1,6 @@
 # Hi, I'm Naeem Nasruddin 👋
 
-**Development Manager | Software Engineering & Technical Leadership | Scalable Web Applications, eCommerce & System Architecture**
+**Senior Web Developer | Software Engineer | Expert in building Scalable Web Applications, eCommerce & System Architecture**
 
 With over 10 years of experience in software engineering, I've grown from a hands-on Web Developer to a Development Manager, building and leading teams that deliver scalable, high-performance digital solutions. My expertise spans full-stack development, software architecture, eCommerce platforms, system integrations, and technical leadership. I focus on transforming complex business challenges into reliable, efficient, and sustainable technology solutions.
 
